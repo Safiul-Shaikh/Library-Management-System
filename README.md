@@ -18,7 +18,10 @@ A Java-based Library Management System that allows users to add, view, search, i
 - **JDBC** (ojdbc8.jar)
 - **VS Code** / **GitHub Codespaces** for development
 
-- 
+- 🚧 In Progress
 Currently working on converting this project into a Full-Stack Library Management System with:
 
 🌐 Frontend — HTML, CSS, JavaScript
+💻 Backend — Java 
+🗄️ Database — Oracle 10g
+⚙️ API Integration — RESTful APIs for seamless communication between frontend and backen

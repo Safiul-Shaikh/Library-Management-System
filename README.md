@@ -23,6 +23,6 @@ A **Java-based Library Management System** that allows users to add, view, searc
 Currently working on converting this project into a **Full-Stack Library Management System**:
 
 - 🌐 **Frontend** — HTML, CSS, JavaScript  
-- 💻 **Backend** — Java (Spring Boot)  
+- 💻 **Backend** — Java
 - ⚡ **API Integration** — RESTful APIs  
 - 🗄️ **Database** — Oracle 10g  
